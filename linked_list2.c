@@ -1,6 +1,9 @@
 // Linked list implementation with locally defined head
 // Inserting at the start, end and nth position
-
+// The information of a linked list that we must keep is the address of the head node, or reference to head node.
+// Node *head is NOT the head node, it is the address of the head node, i.e. a pointer to the head node.
+// A more appropriate name might be Node *head_pointer.
+// The head in a linked list is the first node in the list.
 #include <stdio.h>
 #include <stdlib.h>
 
