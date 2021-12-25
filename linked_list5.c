@@ -1,4 +1,5 @@
 // Reverse a Linked List Using a Recursive Method
+// Time complexity O(n), Space Complexity O(n)
 // Globally defined head
 
 #include <stdio.h>
