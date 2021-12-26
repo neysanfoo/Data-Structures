@@ -1,5 +1,5 @@
 all: clean
-	gcc stack3.c print.c -o output
+	gcc queue3.c print.c -o output
 
 clean:
 	rm -f main
